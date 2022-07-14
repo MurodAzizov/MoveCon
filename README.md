@@ -1,4 +1,4 @@
-MoveCon pro - application include speedometer, odometer, compass and shows location in map.
+Speed warn pro - application include speedometer, odometer, compass and shows location in map.
 
 May use in car, bike, in run, on foot.
 Reasons that make this app unique from other Speedometer and Odometer applications:
