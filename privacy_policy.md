@@ -11,9 +11,9 @@ User Provided Information
 
 The Application does not require any user registration. The Application does not require the user to provide any personal information.
 
-The User Provided location information that this Application uses is the information you provide directly within the Application when showing speed, distance, location and speed warning above setup values. Else User Provided audio file information that this Application uses is the information for warning by sound. 
+The User Provided location data information that this Application uses is the information you provide directly within the Application when showing speed, distance and location. Else User Provided audio file information that this Application uses is the information for speed warning above using audio file. 
 
-All location and audio file information are only accessed, showed and played in Application on your mobile device.
+All location data and audio file information are only accessed, showed and played in Application on your mobile device.
 
 Automatically Collected Information
 
